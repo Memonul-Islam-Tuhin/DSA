@@ -102,11 +102,11 @@ int main()
 
         if(flag == 0)
         {
-            cout << "Link List Not Same" << endl;
+            cout << "Link List Same" << endl;
         }
         else
         {
-            cout << "Link List Same" << endl;
+            cout << "Link List Not Same" << endl;
         }
     }
     return 0;
